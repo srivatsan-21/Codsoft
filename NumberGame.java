@@ -24,6 +24,6 @@ public class NumberGame {
 
         System.out.println("Congratulations! You guessed the correct number.");
         scanner.close();
-    68
+
 }
 }
